@@ -1,0 +1,37 @@
+{
+  "name": "uda-rup",
+  "description": "Rich User Patterns de UDA",
+  "version": "2.4.5",
+  "keywords": [
+    "uda",
+    "rup"
+  ],
+  "homepage": "",
+  "bugs": "",
+  "author": {
+    "name": "EJIE"
+  },
+  "repository": {
+    "type": "svn",
+    "url": "svn://cvs.ejiedes.net/x21a/uda_rup"
+  },
+  "licenses": [
+     {
+	    "type": "EUPL",
+	    "url": "http://ec.europa.eu/idabc/eupl.html"
+	  }
+  ],
+  "main": [
+    "dist/rup.min.js",
+    "dist/rup.min.css"
+  ],
+  "ignore": [
+    "docs",
+    "test",
+    "CONTRIBUTING.md"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

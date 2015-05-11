@@ -1,0 +1,26 @@
+{
+  "name": "uda_rup",
+  "version": "2.4.5",
+  "description": "Rich User Patterns de UDA",
+  "repository": {
+    "type": "svn",
+    "url": "svn://cvs.ejiedes.net/x21a/uda_rup"
+  },
+  "main": "dist/rup.min.js",
+  "keywords": [
+    "uda",
+    "rup"
+  ],
+  "authors": [
+    "EJIE"
+  ],
+  "license": "EUPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
