@@ -15,7 +15,6 @@
     "EJIE"
   ],
   "license": "EUPL",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
