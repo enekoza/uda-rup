@@ -1,10 +1,10 @@
 {
-  "name": "uda_rup",
+  "name": "uda-rup",
   "version": "2.4.5",
   "description": "Rich User Patterns de UDA",
   "repository": {
-    "type": "svn",
-    "url": "svn://cvs.ejiedes.net/x21a/uda_rup"
+    "type": "git",
+    "url": "https://github.com/enekoza/uda-rup.git"
   },
   "main": "dist/rup.min.js",
   "keywords": [

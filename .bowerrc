@@ -1,6 +1,0 @@
-{
-	"proxy":"http://ENZAMORA:Bikirrio48@intercon.ejiedes.net:8080/",
-  "https-proxy":"http://ENZAMORA:Bikirrio48@intercon.ejiedes.net:8080/",
-  "registry": "http://localhost:5678",
-  "timeout": 10000
-}
