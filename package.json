@@ -1,7 +1,7 @@
 {
   "name": "uda-rup",
   "version": "2.4.5",
-  "description": "Rich User Patterns de UDA",
+  "description": UDA - Rich User Patterns",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
